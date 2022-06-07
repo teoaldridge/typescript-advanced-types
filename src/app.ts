@@ -4,6 +4,6 @@
 
 const UserInput = '';
 
-const storeData = userInput ?? 'DEFAULT';
+const storeData = UserInput ?? 'DEFAULT';
 
 console.log(storeData);
